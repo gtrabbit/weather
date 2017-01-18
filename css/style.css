@@ -1,0 +1,50 @@
+.convert{
+  color: #142;
+  position: relative;
+  
+
+  border-radius: 50%;
+  border: double white 3px;
+}
+.cityHere{
+  margin-left: 40%;
+  display: inline-block;
+}
+.heading{
+  text-align: center;
+ 
+}
+.title{
+  margin-top: 5%;
+}
+
+body{
+  background-color: rgba(150,190,170,1);
+  color: #EFF;
+  font-family: Georgia;  
+}
+.circle{
+  background-image: url(BGURL);
+  background-size: cover;
+  border-radius: 50%;
+  position: relative;
+  height: 400px;
+  width: 400px;
+  left: 25%;
+  border: double white 4px;
+  
+}
+.wthrHere{
+  position: relative;
+  right: 20%;
+  display: block;
+
+}
+.tempHere{
+  position: relative;
+  left:91%;
+  color: #EFF;
+  
+ 
+  
+}
